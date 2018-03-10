@@ -1,0 +1,74 @@
+html {
+  background-image: linear-gradient(purple, cyan);
+}
+
+h1 {
+  background-color: darkOrange;
+  padding: 20px 5px;
+  margin: 5px;
+  width: 30%;
+  color: white;
+  font-size: 150%;
+}
+
+#mainDiv {
+  background-color: bisque;
+  width: 50%;
+  margin: 5px;
+}
+
+#mainDiv p {
+  color: green;
+  padding: 10px 5px;
+  margin: 5px;
+}
+
+#goalWL {
+  width: 35%;
+  height: 100px;
+  margin: 5px
+}
+
+#goal {
+  float: left;
+  background-color: springgreen;
+  width: 72%;
+  height: inherit;
+  font-size: 200%;
+}
+
+#scoreWL {
+  float: right;
+  background-color: aqua;
+  width: auto;
+  height: inherit;
+  line-height: 3;
+}
+
+#crystals {
+  width: 45%;
+  margin: 5px;
+  height: 80px;
+}
+
+img {
+  height: inherit;
+}
+
+#scoreP {
+  width: 25%;
+  height: 150px;
+  color: white;
+}
+
+#scoreP p{
+  background-color: teal;
+  margin: 5px;
+}
+
+#scoreP #score {
+  background-color: teal;
+  margin: 5px;
+  height: 80%;
+  font-size: 200%;
+}
